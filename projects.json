@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "img/fitness.jpg",
+        "name": "Fitness Website",
+        "platform": "img/html-icon.svg",
+        "sourcelink":"https://github.com/3IN4R/fitnesssolution",
+        "previewlink":"https://fitnesssolution.einblau.dk/"
+    },
+
+    {
+        "id": 2,
+        "image": "img/fitness.jpg",
+        "name": "Fitness Website",
+        "platform": "img/html-icon.svg",
+        "sourcelink":"https://github.com/3IN4R/fitnesssolution",
+        "previewlink":"https://fitnesssolution.einblau.dk/"
+    }
+
+   
+    
+]
