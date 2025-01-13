@@ -3,20 +3,85 @@
         "id": 1,
         "image": "img/fitness.jpg",
         "name": "Fitness Website",
-        "platform": "img/html-icon.svg",
+        "platform": "img/js.png",
+        "platform2": "img/html.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with Javascript",
+        "platform2alt": "Made with HTML",
+        "platform3alt": "Made with CSS",
         "sourcelink":"https://github.com/3IN4R/fitnesssolution",
         "previewlink":"https://fitnesssolution.einblau.dk/"
     },
 
     {
         "id": 2,
-        "image": "img/fitness.jpg",
-        "name": "Fitness Website",
-        "platform": "img/html-icon.svg",
-        "sourcelink":"https://github.com/3IN4R/fitnesssolution",
-        "previewlink":"https://fitnesssolution.einblau.dk/"
+        "image": "img/eros2.png",
+        "name": "Barbershop",
+        "platform": "img/js.png",
+        "platform2": "img/html.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with Javascript",
+        "platform2alt": "Made with HTML",
+        "platform3alt": "Made with CSS",
+        "sourcelink":"https://github.com/3IN4R/Eros-Friseur",
+        "previewlink":"https://erosfrisorupdate.einblau.dk/"
+    },
+
+    {
+        "id": 3,
+        "image": "img/news.png",
+        "name": "News Website",
+        "platform": "img/react.png",
+        "platform2": "img/js.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with React",
+        "platform2alt": "Made with Javascript",
+        "platform3alt": "Made with CSS",
+        "sourcelink":"https://github.com/3IN4R/PolitinfoV2",
+        "previewlink":"https://politinfo.einblau.dk/"
+    },
+
+    {
+        "id": 4,
+        "image": "img/sunbo.png",
+        "name": "Car Reservation",
+        "platform": "img/js.png",
+        "platform2": "img/html.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with Javascript",
+        "platform2alt": "Made with HTML",
+        "platform3alt": "Made with CSS",
+        "sourcelink":"https://github.com/3IN4R/Sunbeams",
+        "previewlink":"https://sunbeam.einblau.dk/"
+    },
+
+    {
+        "id": 5,
+        "image": "img/restaur.png",
+        "name": "Restauraunt",
+        "platform": "img/react.png",
+        "platform2": "img/js.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with React",
+        "platform2alt": "Made with Javascript",
+        "platform3alt": "Made with CSS",
+        "sourcelink":"https://github.com/3IN4R/freelancekokkenrawcode",
+        "previewlink":"https://freelancekokken.einblau.dk/"
+    },
+
+    {
+        "id": 6,
+        "image": "img/tea.png",
+        "name": "Tea Website",
+        "platform": "img/js.png",
+        "platform2": "img/html.png",
+        "platform3": "img/css.png",
+        "platformalt": "Made with Javascript",
+        "platform2alt": "Made with HTML",
+        "platform3alt": "Made with CSS",
+        "sourcelink":"https://github.com/3IN4R/Xam",
+        "previewlink":"https://pickwick.einblau.dk/"
     }
 
-   
-    
-]
+  ]
+  

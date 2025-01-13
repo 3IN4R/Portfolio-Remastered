@@ -7,6 +7,7 @@
 - CSS
 - HTML
 - JSON
+- Updates via GitBash
 
 ## Features
 

@@ -250,7 +250,7 @@ function showProgress(){
     let currentIndex = 0;
   
     // Fetch the JSON data
-    const data = await fetch('./carouseldata.json').then(res => res.json());
+    const data = await fetch('./projects.json').then(res => res.json());
   
     // Populate slides dynamically
     data.forEach((item, index) => {
