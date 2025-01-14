@@ -11,7 +11,7 @@
 
 ## Features
 
-- Responsive design _works weill in smaller viewports_
+- Responsive design _works well in smaller viewports_
 - Carousel with all project and links to preview and source code
 - Project data fetched from local JSON file
 - Progress bar showing my experience with coding
